@@ -1,0 +1,21 @@
+Third-party notices
+===================
+
+This app was made with Cluster Studio. Besides its own code (main.js, player.js) it ships with:
+
+1. The MGU App Kit (kit/): MIT, Copyright (c) 2026 cauliflowermossgrape, with additions by bimmer-lab
+   (MIT, Copyright (c) 2026 bimmer-lab). kit/LICENSE.
+
+2. cluster_render_client.js: Mozilla Public License 2.0, Copyright (C) 2026 Robert Nisipeanu.
+   Unmodified copy from https://github.com/robertnisipeanu/idrive-apps (native/cluster-render).
+   LICENSES/MPL-2.0.txt.
+
+3. tz.js, vehicle_state.js and shift_cue.js: MIT, Copyright (c) 2026 bimmer-lab
+   (https://github.com/bimmer-lab/apps, LICENSES/bimmer-lab-MIT.txt). vehicle_state.js and shift_cue.js are
+   ports of cauliflowermossgrape's Redline app, MIT, Copyright (c) 2026 cauliflowermossgrape.
+
+4. Signal decoding (drive mode, fuel, range, boost, power, torque, outside temperature) follows
+   f30-cluster (https://github.com/sergey-olefir/f30-cluster) and cauliflowermossgrape's car_vitals, MIT.
+
+5. The digit atlases in designs/ are drawn from the Rajdhani, Barlow Condensed, Orbitron and Inter typefaces,
+   each under the SIL Open Font License 1.1 (https://openfontlicense.org).

@@ -12,7 +12,7 @@ and demo data. Each cluster follows the drive mode (Comfort, Sport, Eco Pro).
 1. Put this folder in a new GitHub repository (on a computer: unzip it, create an empty repo, then
    **Add file → Upload files** and drag in everything inside the folder, so `mgu-repo.json` sits at the top).
 2. In the mgu Store on the car, install **cluster-render** from the source `robertnisipeanu/idrive-apps`.
-3. Add your repository (`your-name/your-repo`) as a Store source and install **BMWTECH Clusters**. The Store builds
+3. Add your repository (`bmwtechservicesuk/clusters`) as a Store source and install **BMWTECH Clusters**. The Store builds
    the app on the head unit.
 4. Open the app and tap a cluster. Under **All settings**, set **Fuel tank size** and **Time zone (clock)** for your car (a named zone,
    such as UK, changes for summer time by itself).

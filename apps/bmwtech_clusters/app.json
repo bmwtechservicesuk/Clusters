@@ -1,5 +1,5 @@
 {
-  "id": "cs_bmwtech_clusters",
+  "id": "bmwtech_clusters",
   "title": "BMWTECH Clusters",
   "description": "Clusters made in Cluster Studio, drawn on the instrument cluster. Pick one, or Off for BMW's own cluster.",
   "version": "1.0.1",
